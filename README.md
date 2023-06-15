@@ -82,10 +82,6 @@ Contributions to the Recipe Sharing Web App are welcome! If you have any suggest
 
 Before making any contributions, please review the [contribution guidelines](CONTRIBUTING.md) for detailed instructions on the development process.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
 ## Acknowledgements
 
 We would like to express our gratitude to the open-source
